@@ -1,0 +1,8 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Your Name
+N:Name;Your;;;
+EMAIL;TYPE=INTERNET:you@example.com
+URL:https://www.linkedin.com/in/your-name/
+URL:https://www.instagram.com/your-name/
+END:VCARD
